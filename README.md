@@ -65,8 +65,5 @@ Header (7 pts): Displays on both pages (2), cart icon with total (3), navigation
 
 Shopping Cart (23 pts): Total items (2), total cost (2), plant details (6), increase (4), decrease (4), delete (2), checkout (1), continue shopping (2)
 
-📸 Screenshots
-(Add screenshots of landing page, product listing, and cart page here for clarity.)
-
 📜 License
 This project is for educational purposes only. Feel free to fork and adapt for learning.
